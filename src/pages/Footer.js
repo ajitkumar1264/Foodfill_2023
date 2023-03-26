@@ -14,7 +14,7 @@ const Footer = () => {
           the NGOs can collect the food from the restaurants for its
           distribution. In this way this android-based food waste management
           system will help restaurants to reduce food waste and will help in
-          feeding the poor and needy people.
+          feeding the poor and needy people vaghela ajitkumar.
         </p>
         {/* <div className="icons">
           <div className="fa fa-facebook"></div>
