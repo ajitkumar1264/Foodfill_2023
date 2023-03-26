@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "../index.css";
-import "../pages/Registration.css";
 import axios from "axios";
 import logo from "../assets/imgs/logo-f1.png";
 import { useNavigate } from "react-router-dom";
+import "./Registration.css"
 
 const Registration = () => {
   const nav = useNavigate();

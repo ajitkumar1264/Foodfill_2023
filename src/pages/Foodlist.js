@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from "react";
-import "./Foodlist.css";
-import "./Registration.css";
 import axios from "axios";
 import logo from "../assets/imgs/logo-f1.png";
 import { useNavigate } from "react-router-dom";
+import "./Foodlist.css"
 
 const Foodlist = () => {
   const [data, setdata] = useState([]);
@@ -63,7 +62,7 @@ const Foodlist = () => {
             <br />
           </h1>
         </center>
-        <button onClick={update}>see the list</button>
+        <button onClick={update} className="btn btn-g">see the list</button>
 
         {data.map((dat, id) => {
           return (

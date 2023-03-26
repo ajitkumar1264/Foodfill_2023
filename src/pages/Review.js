@@ -1,6 +1,5 @@
 import React from "react";
 import "../index.css";
-import user1 from "../assets/imgs/user1.jpg";
 import user2 from "../assets/imgs/user2.jpg";
 
 const Review = () => {

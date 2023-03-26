@@ -5,11 +5,7 @@
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
-/* linear-gradient(to right, #0cebeb,  #45a247, #29ffc6); */
-/================================================================/
-  /==========================SCROLL
-  BAR
-  ===========================/
+
   ::-webkit-scrollbar {
   width: 13px;
 }
@@ -124,7 +120,7 @@ nav a {
 .btn {
   display: inline-block;
   text-decoration: none;
-  color: white;
+  color: rgb(231, 41, 41);
   border: 1px solid white;
   padding: 12px 34px;
   font-size: 13px;
@@ -445,7 +441,7 @@ h3 {
   right: 25px;
   z-index: 1000000;
 }
-/===================================popup==========================/
+
   .popup
   .content {
   position: absolute;

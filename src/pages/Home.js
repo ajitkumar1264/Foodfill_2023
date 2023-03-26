@@ -7,7 +7,6 @@ import Service from "./Service";
 import Post from "./Post";
 import Review from "./Review";
 import Footer from "./Footer";
-import "./Home.css";
 import { Link } from "react-router-dom";
 const Home = () => {
   return (
